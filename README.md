@@ -1,4 +1,4 @@
-### **Welcome..**
+### **Welcome...**
 
 Just some random repos for your enjoyment...
 
